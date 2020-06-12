@@ -1,0 +1,2 @@
+# android_device_G975U1
+android_device_G975U1UEU1ASBA
